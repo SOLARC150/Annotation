@@ -1,9 +1,6 @@
 package br.com.carlos;
 
+@Tabela("Clientes")
 public class Cliente {
-
-	public Cliente() {
-		// TODO Stub de construtor gerado automaticamente
-	}
 
 }
